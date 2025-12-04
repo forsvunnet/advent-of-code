@@ -1,3 +1,4 @@
 .lsp
 *.txt
 .cpcache
+.nrepl-port
